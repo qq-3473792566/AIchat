@@ -1,4 +1,4 @@
-# 明心智能对话系统使用教程
+# 明心智能对话系统
 
 这是一个基于 Vue 3 + Node.js 构建的AI聊天应用项目，实现了与讯飞MaaS平台的集成，支持流式对话功能。
 
@@ -57,11 +57,3 @@
 
 MIT License
 
-## 联系方式
-
-如有问题或建议，请通过以下方式联系：
-
-- GitHub Issues: <repository-issues-url>
-- 电子邮件: <your-email>
-
----
